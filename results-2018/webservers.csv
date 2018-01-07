@@ -1,0 +1,24 @@
+Apache Traffic Server,1
+Jetty,1
+Akka HTTP,1
+OpenGSE,13
+LiteSpeed,486
+gunicorn,1
+IIS,642
+Google Web Server,6
+Express,15
+Caddy,2
+Nginx,2077
+Apache,7485
+Microsoft HTTPAPI,7
+Cowboy,4
+Amazon EC2,4
+lighttpd,2
+Apache Tomcat,18
+Phusion Passenger,4
+Zend,4
+IBM HTTP Server,1
+Oracle HTTP Server,2
+OpenResty,71
+JBoss Web,1
+JBoss Application Server,1
